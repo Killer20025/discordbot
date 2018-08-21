@@ -1,0 +1,2 @@
+# discordbot
+My Mailbot
